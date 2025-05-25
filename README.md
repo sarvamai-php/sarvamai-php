@@ -1,6 +1,8 @@
 # 🇮🇳 Sarvam AI: India’s Indigenous LLM Platform for Multilingual Intelligence
 
-[![Tests](https://github.com/sarvamai-php/sarvamai-php/actions/workflows/tests.yml/badge.svg)](https://github.com/sarvamai-php/sarvamai-php/actions/workflows/tests.yml)
+[![Tests](https://github.com/sarvamai-php/sarvamai-php/actions/workflows/tests.yml/badge.svg)](https://github.com/sarvamai-php/sarvamai-php/actions/workflows/tests.yml) ![GitHub License](https://img.shields.io/github/license/sarvamai-php/sarvamai-php) ![Packagist Version](https://img.shields.io/packagist/v/sarvamai-php/sarvamai-php)
+![Packagist Downloads](https://img.shields.io/packagist/dt/sarvamai-php/sarvamai-php)
+
 
 India has taken a significant leap in the AI domain with the launch of **Sarvam AI**, a homegrown platform offering cutting-edge large language model (LLM) capabilities tailored for Indian languages and use cases. Sarvam AI stands out not only for its LLM capabilities but also for its comprehensive suite of multilingual and multimodal tools, designed to bridge the language divide across digital India.
 
