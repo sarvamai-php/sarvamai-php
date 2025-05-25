@@ -36,7 +36,13 @@ Sarvam AI offers a wide range of AI-powered capabilities, making it a versatile 
 ---
 
 ### Install
-> ***This package under Development***
+[!WARNING]
+> **This package is under active development.**  
+> Features may change, break, or be removed without notice.  
+> Use at your own risk in production environments.  
+> Contributions, testing, and feedback are welcome as this project evolves.
 ```bash
-composer require sarvamai-php/sarvamai-php:@dev
+composer require sarvamai-php/sarvamai-php
 ```
+
+Let me know if you want it in a callout like `[!NOTE]` instead.
