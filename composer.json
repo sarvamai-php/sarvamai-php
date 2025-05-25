@@ -2,10 +2,19 @@
     "name": "sarvamai-php/sarvamai-php",
     "description": "Sarvam AI for PHP client.",
     "type": "library",
+    "keywords": [
+        "sarvamai",
+        "sarvamai-php",
+        "sarvam",
+        "sarvam-client",
+        "sarvam-sdk",
+        "sarvamai-sdk"
+    ],
     "require": {
         "php": "^8.3",
         "psr/log": "^3.0",
-        "php-http/message": "^1.16"
+        "php-http/message": "^1.16",
+        "vlucas/phpdotenv": "^5.6"
     },
     "require-dev": {
         "phpunit/phpunit": "^12.1",
@@ -34,5 +43,6 @@
         "unit": "phpunit --no-progress",
         "test": ["@unit", "@types"]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
