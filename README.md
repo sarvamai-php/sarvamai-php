@@ -36,4 +36,7 @@ Sarvam AI offers a wide range of AI-powered capabilities, making it a versatile 
 ---
 
 ### Install
-
+>>> ***This package underdevelopmwnt***
+```bash
+composer require sarvamai-php/sarvamai-php:@dev
+```
