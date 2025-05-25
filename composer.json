@@ -30,8 +30,9 @@
         }
     ],
     "scripts": {
-        "types": "phpstan analyse --ansi",
-        "unit": "phpunit"
+        "types": "phpstan analyse --no-progress --ansi",
+        "unit": "phpunit --no-progress",
+        "test": ["@unit", "@types"]
     },
     "minimum-stability": "stable"
 }

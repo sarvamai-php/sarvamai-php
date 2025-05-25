@@ -34,5 +34,5 @@ jobs:
 
     #- name: Run test suite
     # run: composer run-script test
-    - name: Run test Types
-      run: composer run-script types
+    - name: Run Test suite
+      run: composer run-script test
