@@ -27,6 +27,9 @@ Sarvam AI offers a wide range of AI-powered capabilities, making it a versatile 
   Convert text between scripts (e.g., Roman ↔️ Devanagari) for regional communication.
 
 - **🗃️ Indic Language Support**  
-  Deep support for major Indian languages like Hindi, Tamil, Telugu, Bengali, Kannada, Malayalam, Marathi, Gujarati, and more.
+  Deep support for major Indian languages like Hindi, Tamil, Telugu, Bengali, Kannada, Malayalam, Marathi, Gujarati, Odia, and more.
 
 ---
+
+### Install
+
