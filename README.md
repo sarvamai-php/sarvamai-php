@@ -30,11 +30,3 @@ Sarvam AI offers a wide range of AI-powered capabilities, making it a versatile 
   Deep support for major Indian languages like Hindi, Tamil, Telugu, Bengali, Kannada, Malayalam, Marathi, Gujarati, and more.
 
 ---
-
-## ⚙️ Developer-Friendly API Access
-
-Sarvam AI provides flexible and easy-to-use APIs with support for multiple programming environments:
-
-- **🐍 Python** – Perfect for backend, data science, and ML applications.
-- **🟨 JavaScript/TypeScript** – Great for web, frontend, and Node.js projects.
-- **🌀 cURL** – Simple command-line integration for quick tests and automation.
