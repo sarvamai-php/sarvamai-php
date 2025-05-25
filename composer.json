@@ -1,0 +1,37 @@
+{
+    "name": "sarvamai-php/sarvamai-php",
+    "description": "Sarvam AI for PHP client.",
+    "type": "library",
+    "require": {
+        "php": "^8.3",
+        "psr/log": "^3.0",
+        "php-http/message": "^1.16"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.1",
+        "phpstan/phpstan": "^2.1",
+        "symfony/var-dumper": "^7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sarvam\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "scripts": {
+        "types": "phpstan analyse --ansi",
+        "unit": "phpunit"
+    },
+    "minimum-stability": "stable"
+}
